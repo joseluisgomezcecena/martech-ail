@@ -1,0 +1,157 @@
+numero_parte,descripcion,maximo,minimo,stock,consumible,disponible,reorder,main_cat_id
+NCMB075-0200.,-Piston de corte SMC -,2,1,1,si,1,1,7
+5171023,-ENCODER WHEEL Part No. ?,2,1,1,si,1,1,7
+Z26443-05-143,-Servo Torque,3,1,3,si,3,1,7
+2003030,-Banda dentada B 140MXI,3,1,3,si,3,1,7
+85197,-ADC Control ( Control de Secado Avanzado ) Keypad.,2,1,3,si,3,1,7
+61-52-68-1,-Resistencias 480 VAC/ 500 W. BIG CHIEF,24,12,12,si,12,12,7
+LPU-15K,-Celda de carga. .,1,1,1,si,1,1,7
+37012,-Bushing de barra guía. (Dodge Flange bearing ) 1 1/2,4,2,2,si,2,2,7
+PLAN01C,-Termocoples.,4,0,4,si,4,0,7
+F0-703.5.,-Piston BIMBA,2,1,2,si,2,1,7
+0S101E-V1,-Transmisor de temperatura OMEGA.,4,2,3,si,3,2,7
+MPPE-3-1/2-10-010-B.,-Regulador proporcional,2,1,1,si,1,1,7
+VSVA-B-M53-AZD-A1-1T1L.,-Electrovalvula. FESTO.,6,3,6,si,6,3,7
+OR50B,-Válvula de desahogo rápido 1/2” PARKER.,4,2,2,si,2,2,7
+DGC-K-25-540-PPV-A-GK,-Cilindro Slider FESTO.,2,1,1,si,1,1,7
+D53TP50D.,-Relay de estado solido 3 F 530v. 50 A. CRYDOM,2,1,2,si,2,1,7
+6001-C-2Z-L038.,-Balero FAG,10,1,1,si,1,1,7
+6203-2Z-L038.,-Balero FAG,50,10,6,si,6,10,7
+6206-2Z-L038.,-Balero FAG,10,1,6,si,6,1,7
+5206. NR C/3,-Balero,4,2,1,si,1,2,7
+6211.2ZR.C3.L38.,-Balero FAG,5,2,1,si,1,2,7
+6306-2Z-L038.,-Balero FAG,5,1,2,si,2,1,7
+6307-2Z-L038.,-Balero FAG,2,1,1,si,1,1,7
+6309-2Z-L038.,-Balero FAG,10,5,1,si,1,5,7
+6310.2ZR.C3.L38.,-Balero FAG,10,5,3,si,3,5,7
+6311-2Z-C3.,-Balero FAG,10,5,13,si,13,5,7
+6312.2ZR.C3.,-Balero FAG,10,5,7,si,7,5,7
+30309-A.,-Balero FAG,10,1,1,si,1,1,7
+30310-A.,-Balero FAG,10,1,1,si,1,1,7
+693hZZ A5.,-Balero DYNAROLL 3.0mmx8.0mmx4.0mm,5,2,6,si,6,2,7
+L23101AL02142530/782,-Fuente de poder POWER TECHNOLOGY,2,1,2,si,2,1,7
+V60A517A-A2.,-Electrovalvula NORGREN.,4,2,2,si,2,2,7
+V60A611A-A2.,-Electrovalvula NORGREN,4,2,4,si,4,2,7
+1261580,-Filtro de aceite BOY,4,2,1,si,1,2,7
+RF0N160DE5A 1.0.,-Housing filter. HYDAC.,2,0,2,si,2,0,7
+5197014,-Leva del Shoot-off,5,2,5,si,5,2,7
+5719014,-Reten de Leva,5,2,3,si,3,2,7
+4224010,-Pasador.,5,2,2,si,2,2,7
+5718004,-Pin central de Leva.,5,2,1,si,1,2,7
+SAFE 4 ECO. 45070.,-Modulo de seguridad TIESE 24VDC AC/DC 6A,2,1,2,si,2,1,7
+BES 516-377-S 4-C,-Sensor de Proximidad BALLUFF,,,,si,,,7
+MODEL P6102 2000000,-Control de Temperatura PARTLOW 1160,2,1,1,si,1,1,7
+S12168-8,-Motor TRHOW WHEEL.,1,1,1,si,1,1,7
+000 -107.,-Sensor de oxigeno. No. Serie 610-19-1475.,2,1,4,si,4,1,7
+S12510-14,-Main Door Lacht. ( Manija ),2,1,2,si,2,1,7
+S12518-1,-Mian Door seal kit.,2,1,2,si,2,1,7
+S12656,-Acoplamiento motor-Canasta.,2,1,1,si,1,1,7
+S-12651-1,-Reten Shaft seal.,4,1,3,si,3,1,7
+S12915,-Separador de media.,60,30,16,si,16,30,7
+IDC5D,-Modulo Relevador I/O Standard OPTO 22,5,2,3,si,3,2,7
+01821430-1831.,-Flash Card Memory. 2GB DELKIN DEVICES,3,1,1,si,1,1,7
+S12006-22,-Manguera para Media. 9’x6”,2,1,2,si,2,1,7
+A421ABC-04C,-Termostato JOHNSON CONTROL.,2,1,1,si,1,1,7
+RTAC-01. 64379194G7500243,-Tarjeta de encoder ABB Serie 800.,1,1,1,si,1,1,7
+3216,-Controlador de temperatura EUROTHERM . Ext.11,2,1,4,si,4,1,7
+TRQ 20-25 Lbf FT/27-33.,-Válvula Ext. 12 y 14.,2,1,2,si,2,1,7
+TRQ 30-35 Lbf FT/41-47.,-Valvula Ext. 12 y 14.,2,1,2,si,2,1,7
+770224,-Coil de valvula. Ext. 12 y 14,2,1,1,si,1,1,7
+P165006.,-Filtro de repuesto.9 Micrones. Ext. 12.,4,2,2,si,2,2,7
+CR111C10R,-Filtró de repuesto. . Ext. 12 y 14.,4,2,4,si,4,2,7
+BFC0-20.,-Contactó Auxiliar.,2,1,4,si,4,1,7
+DSG-01-3C60-A120-7090.,-Válvula direccional YUKEN.,2,1,2,si,2,1,7
+E1400022204.,-Encoder DYNAPART BRAND. 1/4”.,4,1,1,si,1,1,7
+UL489. E305318,-BREAKER. 2 Fases. 3 A. D Curve,2,1,1,si,1,1,7
+3541H-496-502L.,-Potenciometro 5 KOhms. + 10% BOURNS Hybritron,2,1,1,si,1,1,7
+H-46-6A-1.,-Carátula dial para potenciometro. BOURNS.,2,1,1,si,1,1,7
+921999/K22001/FA35-10,-Filtro de Aceite Hidráulico PARKER.,4,2,6,si,6,2,7
+5JJ56,-Dial de variador DART CONTROLS.,2,1,1,si,1,1,
+2LHT7,-Dial de variador DART CONTROLS.,2,1,1,si,1,1,
+XR063G10,-Filtro de Aceite,3,1,3,si,3,1,
+AFM220-303.,-Contactor de mercurio. DURAKOOL.,2,1,3,si,3,1,
+17331,-Contactor 3 Polos. 30 Amp. 24 VAC Coil.,2,1,2,si,2,1,
+91322,-Contactor 2 Polos. 30 Amp. 110/120 VAC Coil. . MARS,2,1,2,si,2,1,
+E47BML04,-Limit Switch CUTLER-HAMMER.,10,5,2,si,2,5,
+AT-GM-13A,-Módulo de Seguridad BANNER.,3,1,3,si,3,1,
+8910DPA53V02,-Contactor 3 Polos Square D. 50 Amp.,3,1,4,si,4,1,
+8910DPA32V02,-Contactor 2 Polos Square D. 30 Amp.,3,1,1,si,1,1,
+ZBE 1013.,-Contacto Schneider NO.,5,1,3,si,3,1,
+33S01,-Contacto BACO. NC.,5,1,6,si,6,1,
+8LM2T.C01,-Contacto LOVATO. NC.,2,1,2,si,2,1,
+IS310WH,-Sensor para Puerta entrada/salida. HONEYWELL,2,1,1,si,1,1,
+TA25DU-5.0-20,-Contaco Auxiliar ABB Térmico,2,1,1,si,1,1,
+FRS-R-30,-Fusible 30 amp. Class RK5,10,2,10,si,10,2,
+8536SDG1V02S,-Arrancador de 120VAC. 60Hz / 110 VAC. 50 Hz.,2,1,1,si,1,1,
+EDB34030,-Interruptor Térmico 3P / 30 Amp.,2,1,1,si,1,1,
+EDB34020,-Interruptor Térmico 3P / 20 Amp.,2,1,2,si,2,1,
+4ZK56A,-Filtro de Aire SPEEDAIRE.,10,5,16,si,16,5,
+5050696,Filtro de Pistola Ionizadoras SIMCO,10,5,6,si,6,5,
+6UJK9,-Portafiltro para Maquina de lavado con alcohol,2,1,2,si,2,1,
+FCS. 24V 150W. G6.35,-Foco para Microscopio MITUTOYO. LUMIACTION,10,5,4,si,4,5,
+JC20. 12V. 20W,-Foco para Microscopio MITUTOYO. TECNO LITE.,5,1,1,si,1,1,
+P/N. 38465.,-Foco para DYMAX Lamp 200W,10,5,2,si,2,5,
+P/N. 38560.,-Foco para DYMAX. Lamp 400W,5,1,2,si,2,1,
+T3. R7. 150W 120V,-Foco G&E. Bulb HALOGENO,10,5,7,si,7,5,
+G24d-1.,-Foco p/ Barra Ionizadoras. 13w. Bias D ECO. 2 PIN. G&E,10,5,5,si,5,5,
+1456LL,-Focos 12V.,10,2,7,si,7,2,
+M20600818-01-MB,-PLC Poot 01.,2,1,1,si,1,1,
+VT-VSPA2-525-10/V0/RTP.,-Tarjeta REXROTH.,3,1,2,si,2,1,
+21120.10.080B,-Coil de enfriamiento del Tip.,3,1,2,si,2,1,
+12003,-Tubos graduados p/ flujo metro.,12,4,13,si,13,4,
+700040,-Mirilla p/ nivel de aceite.,2,1,2,si,2,1,
+45A-AA1-DDAJ-1KA.,-Electrovalvula MAC,9,3,4,si,4,3,
+56C-13-111AA,-Electrovalvula MAC (Limp Pump).,2,1,2,si,2,1,
+M3041-000005-05KPG,-Transductor de presión MEAS. Model MSP-300-05K-P-4-N-1,6,1,6,si,6,1,
+,MECANISMOS ( Acoplamientos ),,,,si,,,
+MWC20-6-6-A RULAND RM,-Acoplamiento Flexible tipo mordaza,3,1,4,si,4,1,
+BDSAS-125-16-8.,-Acoplamiento Flexible tipo mordaza HELICAL,3,1,2,si,2,1,
+2025-10-10,-Acoplamiento Flexible tipo mordaza,3,1,3,si,3,1,
+2018-6-6,-Acoplamiento Flexible tipo mordaza,3,1,1,si,1,1,
+18-6-6.,-Acoplamiento Flexible tipo mordaza Acero Inoxidable,4,1,3,si,3,1,
+51.020.03.00. 1927238.,-Timer Neumático IMPULSE De 2-6 bar,2,1,1,si,1,1,
+1A326A,-Exhaust Muffler 1/4 NPT. SPEEDAIRE,5,1,6,si,6,1,
+1A325A,-Exhaust Muffler 1/8 NPT. SPEEDAIRE.,5,1,2,si,2,1,
+42A-EMD-EAM-GDDA-1KU,-Electrovalvula MAC,2,1,2,si,2,1,
+130B-111AA,-Electrovalvula MAC,2,1,2,si,2,1,
+35A-AAA-DFEA-1BA,-Electrovalvula MAC,2,1,3,si,3,1,
+35A-B00-DDAA-1BA,-Electrovalvula MAC,2,1,1,si,1,1,
+35A-AAA-DEDA-1BA,-Electrovalvula MAC,2,1,2,si,2,1,
+45A-ZA1-DDAJ-4KD,-Electrovalvula MAC,2,1,2,si,2,1,
+44C-ABA-GDFA-1BA,-Electrovalvula MAC,2,1,1,si,1,1,
+AW30-038DG-A,-Regulador de Presión SMC 0.05 - 0.7 MPa,2,1,2,si,2,1,
+NCDMB075-0300S,-Piston de simple efecto SMC. Press max. 250 PSI,3,1,3,si,3,1,
+744021,-Control display ROPEX.,2,1,1,si,1,1,
+02.50 2RLPM 9 0.750.,-Cilindro PARKER.,4,2,3,si,3,2,
+SKS25LP751,Kit de reparación de cilindro PARKER,3,1,3,si,3,1,
+PM-L25,-Sensor de posición . PANASONIC,5,2,2,si,2,2,
+A165ES01,-Boton Paro de emergencia. OMRON .,5,2,1,si,1,2,
+RPLC-2,-Piston ROBOHAND.,2,1,1,si,1,1,
+E2E-2Y1,-Sensor de Proximidad OMRON,2,1,2,si,2,1,
+SFR1810ZZ A5.,-Balero DYNAROLL 3125”x.5000”x.1562”,20,10,21,si,21,10,
+1C-031-Z.,-Collar mordaza. 5/16” ID. SPLIT CLIMAX,20,10,40,si,40,10,
+4486,-Mandril DREMEL.,20,10,23,si,23,10,
+D4C-1602,-Limit Switch OMRON.,2,1,1,si,1,1,
+Mod. 3XE22D.,-Motor DC. DAYTON.,2,1,1,si,1,1,
+F2-04THM - PLC Direct Logic205,-Modulo de entrada PLC p/ Thermocouple,2,1,1,si,1,1,
+DXTEX00ZP3000PSGB,-Proportion Air .,6,2,4,si,4,2,
+PP2154GXX3000,Manomettro 0-3000 PSI,10,2,10,si,10,2,
+CLASS RK5 FNR-K-35,-Fusible de 35 Amp. 600 VAC.,6,2,2,si,2,2,
+2F33,-Reten p/cilindro hidráulico CLAMP. SKF,6,2,1,si,1,2,
+887861,-Reten p/cilindro hidráulico TRANSFER. HALLITE,6,2,5,si,5,2,
+R70E,-Touch Screen (Usada).,2,1,4,si,4,1,
+CXA-P1212D-WJL,-LED para Touch Screen. U5209. TDK-Lambda.,2,1,2,si,2,1,
+CS11T,-Sensor de Proximidad KOYO.,5,2,3,si,3,2,
+APS4-12M,-Sensor de Proximidad KOYO,2,1,1,si,1,1,
+TL-Q5MC1,-Sensor de Proximidad OMRON.,2,1,2,si,2,1,
+J684-000005,-Sensor de proximidad PANASONIC. TY (050716). GL-18H SUNX,2,1,1,si,1,1,
+KI0203,-Sensor de Proximidad. IFM,2,1,1,si,1,1,
+SQ1241DY-5L0-C6-M,-Electrovalvula SMC,2,1,1,si,1,1,
+2Q1141Y-5L01-C6-M,-Electrovalvula SMC,2,1,1,si,1,1,
+SQ1141Y-5L01-C4-B-MB,-Electrovalvula SMC,2,1,1,si,1,1,
+VQZ342R-5L1-02-X71,-Electrovalvula SMC,2,1,1,si,1,1,
+SY7140-5G1-A-X204,-Electrovalvula SMC,2,1,1,si,1,1,
+SY5120-5LZ-01,-Electrovalvula SMC,2,1,2,si,2,1,
+FK-2050-R-US7. EB4,-Shock Absorber,6,2,4,si,4,2,
+DN4-2120,-Limit Switch OMRON,2,1,2,si,2,1,
+RZ-01A94V-0. E322892,-Tarjeta de control Clucht. POLYTRON. 3176.,2,1,1,si,1,1,
