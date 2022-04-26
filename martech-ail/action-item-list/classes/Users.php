@@ -756,7 +756,7 @@ class Users
                     // write new user's data into database
                     $sql = "UPDATE users SET  user_email = '$user_email', user_first_name = '$user_first_name', 
                     user_last_name = '$user_last_name', user_employee_number = '$user_employee_number', user_phone = '$user_phone', 
-                    user_areacode = '$user_areacode',  user_suspend = '$user_suspend',  
+                    user_areacode = '$user_areacode',  user_suspend = '$user_suspend', user_password_hash = '$user_password_hash',  
                     user_last_update = '$user_last_update' $file 
                     WHERE user_id = $user_id";
 
